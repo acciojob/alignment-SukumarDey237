@@ -17,6 +17,9 @@ td {
 .right {
 	text-align: right;
 }
+.center{
+	text-align:center;
+}
 .green {
 	background-color: green;
 }
